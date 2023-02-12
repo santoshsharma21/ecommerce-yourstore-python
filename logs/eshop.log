@@ -1,0 +1,18 @@
+11-Feb-2023 22:05:20: INFO: root: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+11-Feb-2023 22:05:21: INFO: root: test_validate_page_title(): Test Passed:
+11-Feb-2023 22:05:21: INFO: root: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+11-Feb-2023 22:05:33: INFO: root: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+11-Feb-2023 22:05:33: INFO: root: test_validate_featured_product_count(): Test Passed:
+11-Feb-2023 22:05:33: INFO: root: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 00:19:28: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 00:19:28: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 00:19:28: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 00:19:42: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 00:19:43: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 00:19:43: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 17:31:56: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 17:31:57: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 17:31:57: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 17:32:09: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 17:32:09: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 17:32:09: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
