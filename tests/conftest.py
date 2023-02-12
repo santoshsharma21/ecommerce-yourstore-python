@@ -15,3 +15,5 @@ def setup_browser(request):
     # close browser
     yield
     _driver.quit()
+
+# html reports
