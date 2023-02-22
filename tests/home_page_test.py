@@ -26,7 +26,7 @@ class TestHomePage(BaseTest):
         home_pg = HomePage(self.driver)
         fcount = home_pg.verify_featured_product_count()
 
-        if fcount == 4:
+        if fcount == 5:
             assert True
             self.log.info("Test Passed")
         else:

@@ -28,3 +28,106 @@
 12-Feb-2023 20:04:38: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
 12-Feb-2023 20:04:38: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
 12-Feb-2023 20:04:38: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:21:36: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:21:36: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:21:36: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:21:46: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:21:46: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:21:46: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:23:59: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:23:59: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:23:59: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:24:09: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:24:09: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:24:09: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:26:45: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:26:45: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:26:45: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:26:54: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:26:54: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:26:54: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:28:48: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:28:48: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:28:48: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:28:57: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:28:57: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:28:57: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:34:04: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:34:04: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:34:04: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:34:14: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:34:14: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:34:14: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:37:15: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:37:15: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:37:15: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:37:27: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:37:27: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:37:27: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:39:42: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:39:42: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:39:42: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:39:52: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:39:52: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:39:52: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+12-Feb-2023 20:43:07: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+12-Feb-2023 20:43:07: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+12-Feb-2023 20:43:07: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+12-Feb-2023 20:43:18: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+12-Feb-2023 20:43:18: INFO: TestHomePage: test_validate_featured_product_count(): Test Passed:
+12-Feb-2023 20:43:18: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  END ==========:
+22-Feb-2023 20:16:53: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 20:16:53: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 20:16:53: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 20:17:08: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 20:17:08: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 20:21:16: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 20:21:16: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 20:21:16: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 20:21:35: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 20:21:35: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 20:23:18: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 20:23:18: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 20:23:18: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 20:23:43: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 20:23:43: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 20:26:05: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 20:26:05: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 20:26:05: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 20:26:29: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 20:26:29: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 20:31:04: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 20:31:04: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 20:31:04: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 20:31:29: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 20:31:29: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 21:13:50: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 21:13:50: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 21:13:50: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 21:14:04: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 21:14:04: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 21:18:43: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 21:18:43: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 21:18:43: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 21:18:58: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 21:18:58: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 21:21:39: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 21:21:39: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 21:21:39: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 21:21:54: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 21:21:54: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 21:24:15: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 21:24:15: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 21:24:15: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 21:24:30: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 21:24:30: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 21:27:06: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 21:27:06: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 21:27:06: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 21:27:20: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 21:27:20: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
+22-Feb-2023 21:31:30: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  START ==========:
+22-Feb-2023 21:31:30: INFO: TestHomePage: test_validate_page_title(): Test Passed:
+22-Feb-2023 21:31:30: INFO: TestHomePage: test_validate_page_title(): ========== test_validate_page_title  END ==========:
+22-Feb-2023 21:31:45: INFO: TestHomePage: test_validate_featured_product_count(): ========== test_validate_featured_product_count  START ==========:
+22-Feb-2023 21:31:45: ERROR: TestHomePage: test_validate_featured_product_count(): Test Failed:
